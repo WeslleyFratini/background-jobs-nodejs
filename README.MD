@@ -6,3 +6,4 @@
 - Crie um arquivo `.env` e adicione as variáveis de ambiente que estão no arquivo `.env.example`
 - Rode `yarn dev` para iniciar o servidor.
 - Para rodar o redis utilizando o docker `docker run --name redis -p 6379:6379 -d -t redis:alpine`
+- Para vizualizar o dashboard Bull, acesse `http://localhost:3333/admin/queues`
